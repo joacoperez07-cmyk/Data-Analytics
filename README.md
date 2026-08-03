@@ -23,7 +23,7 @@ Caso de estudio de una empresa distribuidora de tecnología utilizado para desar
 | M03 | Creación de la base de datos relacional | ✅ |
 | M04 | Consultas SQL orientadas al negocio | ✅ |
 | M05 | Consultas SQL utilizando JOIN | ✅ |
-| M06 | ETL y conexión con Power BI | ⏳ |
+| M06 | ETL y conexión con Power BI | ✅ |
 | M07 | Dashboard ejecutivo | ⏳ |
 | M08 | Modelo analítico y medidas DAX | ⏳ |
 
