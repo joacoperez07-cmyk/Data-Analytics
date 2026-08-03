@@ -35,4 +35,4 @@ Caso de estudio de una empresa distribuidora de tecnología utilizado para desar
 
 **Joaquín I. Pérez**
 
-Estudiante avanzado de Ingeniería Ambiental con formación complementaria en Data Analytics.
+Ingeniero Ambiental con formación complementaria en Data Analytics.
