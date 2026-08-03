@@ -1,55 +1,38 @@
-# Proyecto RetailPro
+# Data Analytics
 
-Repositorio con los entregables desarrollados durante el curso de Data Analytics en Coderhouse.
+Repositorio donde documento los proyectos y entregables desarrollados durante mi formación en Data Analytics.
 
----
+## 📂 Proyectos
 
-## Proyecto
+### RetailPro
 
-Caso de estudio de una empresa distribuidora de tecnología, donde se desarrolla un sistema completo de análisis de datos utilizando:
+Caso de estudio de una empresa distribuidora de tecnología utilizado para desarrollar un proyecto completo de análisis de datos, desde el diseño de la base de datos hasta la construcción de dashboards en Power BI.
 
-- PostgreSQL
-- SQL
-- Power BI
-- DAX
-- ETL
-
----
-
-## Módulos desarrollados
-
-### Módulo 3 - Creación de la base de datos
-
-- Modelo relacional
-- Creación de tablas
-- Restricciones (PK y FK)
-- Inserción de datos
-- Validación de integridad
-
-Archivo:
-
-```
-RetailPro/M03/Ventas_Tech_DB.sql
-```
-
----
-
-### Módulo 4 - Consultas de negocio
-
-- Resumen ejecutivo mensual
-- Ranking de productos
-- Clientes recurrentes
-- Comparación con el promedio mensual
-
-Archivo:
-
-```
-RetailPro/M04/m4_consultas_negocio.sql
-```
-
----
-
-## Tecnologías utilizadas
+**Tecnologías utilizadas:**
 
 - PostgreSQL
 - SQL
+- Git & GitHub
+- Power BI *(próximamente)*
+- DAX *(próximamente)*
+
+**Contenido desarrollado hasta el momento:**
+
+| Módulo | Descripción | Estado |
+|--------|-------------|:------:|
+| M03 | Creación de la base de datos relacional | ✅ |
+| M04 | Consultas SQL orientadas al negocio | ✅ |
+| M05 | Consultas SQL utilizando JOIN | ✅ |
+| M06 | ETL y conexión con Power BI | ⏳ |
+| M07 | Dashboard ejecutivo | ⏳ |
+| M08 | Modelo analítico y medidas DAX | ⏳ |
+
+📁 Proyecto disponible en la carpeta **RetailPro/**
+
+---
+
+## Autor
+
+**Joaquín I. Pérez**
+
+Estudiante avanzado de Ingeniería Ambiental con formación complementaria en Data Analytics.
