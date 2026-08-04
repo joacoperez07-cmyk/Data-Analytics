@@ -154,6 +154,6 @@ Todas las sugerencias fueron evaluadas y adaptadas según el criterio técnico d
 
 ## Autor
 
-**Joaquín I. Pérez**
+**Ing. Joaquín I. Pérez**
 
 Proyecto desarrollado como parte del curso de **Data Analytics**, integrando SQL, PostgreSQL y Power BI para la construcción de una solución completa de análisis de datos.
