@@ -24,8 +24,8 @@ Caso de estudio de una empresa distribuidora de tecnología utilizado para desar
 | M04 | Consultas SQL orientadas al negocio | ✅ |
 | M05 | Consultas SQL utilizando JOIN | ✅ |
 | M06 | ETL y conexión con Power BI | ✅ |
-| M07 | Dashboard ejecutivo | ⏳ |
-| M08 | Modelo analítico y medidas DAX | ⏳ |
+| M07 | Boceto Dashboard ejecutivo | ✅ |
+| M08 | Modelo analítico y medidas DAX | ✅ |
 
 📁 Proyecto disponible en la carpeta **RetailPro/**
 
